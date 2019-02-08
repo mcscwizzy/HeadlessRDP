@@ -1,0 +1,12 @@
+C:\Users\c69007\Documents\Git\MyProjects\HeadlessRDP\HeadlessRDP\bin\Release\HeadlessRDP.exe.config
+C:\Users\c69007\Documents\Git\MyProjects\HeadlessRDP\HeadlessRDP\bin\Release\HeadlessRDP.exe
+C:\Users\c69007\Documents\Git\MyProjects\HeadlessRDP\HeadlessRDP\bin\Release\HeadlessRDP.pdb
+C:\Users\c69007\Documents\Git\MyProjects\HeadlessRDP\HeadlessRDP\bin\Release\AxInterop.MSTSCLib.dll
+C:\Users\c69007\Documents\Git\MyProjects\HeadlessRDP\HeadlessRDP\bin\Release\Interop.MSTSCLib.dll
+C:\Users\c69007\Documents\Git\MyProjects\HeadlessRDP\HeadlessRDP\bin\Release\Ookii.CommandLine.dll
+C:\Users\c69007\Documents\Git\MyProjects\HeadlessRDP\HeadlessRDP\bin\Release\Ookii.CommandLine.xml
+C:\Users\c69007\Documents\Git\MyProjects\HeadlessRDP\HeadlessRDP\obj\Release\HeadlessRDP.csprojAssemblyReference.cache
+C:\Users\c69007\Documents\Git\MyProjects\HeadlessRDP\HeadlessRDP\obj\Release\HeadlessRDP.csproj.CoreCompileInputs.cache
+C:\Users\c69007\Documents\Git\MyProjects\HeadlessRDP\HeadlessRDP\obj\Release\HeadlessRDP.csproj.CopyComplete
+C:\Users\c69007\Documents\Git\MyProjects\HeadlessRDP\HeadlessRDP\obj\Release\HeadlessRDP.exe
+C:\Users\c69007\Documents\Git\MyProjects\HeadlessRDP\HeadlessRDP\obj\Release\HeadlessRDP.pdb
